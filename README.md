@@ -1,6 +1,6 @@
 # Equity_Analysis
 
-This repository is a collection of computational analyses, models, and scripts for the study of equities. The goal is to provide a comprehensive toolkit for quantitative research in financial markets.
+This repository is a collection of computational analyses, models, and scripts for the study of equities. The goal is to provide a toolkit for quantitative research in financial markets.
 
 ## Table of Contents
 
